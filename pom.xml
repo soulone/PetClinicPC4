@@ -10,9 +10,10 @@
 	</parent>
 	<groupId>com.tecsup</groupId>
 	<artifactId>PetClinic</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<name>PetClinic</name>
 	<description>PetClinic project for Spring Boot</description>
+	<packaging>war</packaging>
 
 	<properties>
 		<java.version>1.8</java.version>
